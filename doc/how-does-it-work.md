@@ -8,7 +8,7 @@
 
   It is a __RSA-2048__ public key that Navicat used to encrypt or decrypt offline activation information.
 
-  It is stored in __navicat.exe__ as a kind of resource called __RCData__. The resource name is `"ACTIVATIONPUBKEY"`. You can see it by a software called [___Resource Hacker___](http://www.angusj.com/resourcehacker/). The public key is
+  It is stored in __navicat.exe__ as a kind of resource called __RCData__. The resource name is `"ACTIVATIONPUBKEY"`. You can see it by a software called [___Resource Hacker___](http://www.angusj.com/resourcehacker/ or [Resource Cracker](https://www.pelock.com/products/resource-cracker)). The public key is
 
   ```
   -----BEGIN PUBLIC KEY-----  
